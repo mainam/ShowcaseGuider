@@ -1,5 +1,5 @@
-# <h1>Android ShowcaseGuider</h1> 
-# This library allows create a helper in your application.
+# Android ShowcaseGuider<h1> 
+## This library allows create a helper in your application.
 # ShowcaseGuider consist of:
 #  *Overlay - layer, which will be front on your screen;
 #  *ToolTip - prompt, indicating that the user is doing at a given time;
